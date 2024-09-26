@@ -1,4 +1,4 @@
-Smart Airdrop
+Smart Airdrop Hard Fork
 =============
 
 [](#smart-airdrop)
